@@ -1,0 +1,30 @@
+fastapi~=0.115.3
+numpy
+pydantic
+uvicorn
+websockets
+torch~=2.5.1
+torchvision~=0.20.1a0
+pandas~=2.2.3
+pyarrow~=18.0.0
+fastparquet
+scikit-learn
+seaborn
+tqdm
+matplotlib
+mediapipe
+av~=13.0.0
+opencv-python~=4.9.0
+python-multipart
+# Requirements for the tts technology
+soundfile
+munch
+espeakng-loader
+phonemizer-fork
+pydub
+torch
+transformers
+scipy
+# Requirements for using llm
+groq
+piper-tts
